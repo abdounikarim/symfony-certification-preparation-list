@@ -7,11 +7,11 @@ title: Symfony Architecture
 
 ## Symfony Flex
 - [Symfony 7.0 Documentation - symfony.com](https://symfony.com/doc/7.0/index.html)
-- [Flex: Compose your Application - symfony.com](https://symfony.com/doc/7.0/quick_tour/flex_recipes.html)
-- [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/7.0/setup/flex.html)
+- [Flex: Compose your Application - symfony.com](https://symfony.com/doc/7.0/quick_tour/flex_recipes.html) ✅
+- [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/7.0/setup/flex.html) ✅
 
 ## License
-- [Symfony License - symfony.com](https://symfony.com/doc/7.0/contributing/code/license.html)
+- [Symfony License - symfony.com](https://symfony.com/doc/7.0/contributing/code/license.html) ✅
 
 ## Components
 - [Symfony Components - symfony.com](https://symfony.com/components)
@@ -20,7 +20,7 @@ title: Symfony Architecture
 - [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
 
 ## Code organization
-- [Business Logic - symfony.com](https://symfony.com/doc/7.0/best_practices.html#business-logic)
+- [Business Logic - symfony.com](https://symfony.com/doc/7.0/best_practices.html#business-logic) ✅
 
 ## Request handling
 - [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/7.0/introduction/http_fundamentals.html)
